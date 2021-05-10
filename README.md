@@ -21,7 +21,7 @@
 
 # Funcionalidad
 
-[Imagen Basica del Programa](https://gyazo.com/2fe93168b16d508dcc17a151ee751918.png)
+![Imagen Basica del Programa](https://gyazo.com/2fe93168b16d508dcc17a151ee751918.png)
 
 # Código de apoyo
 
