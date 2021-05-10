@@ -11,7 +11,6 @@
  - [Importación en AndroidStudio](#Importar)
 
 ### Manualmente ###
- - ` git clone https://github.com/franciscofl12/calculadoraSimple/ ` 
  - Descargar [https://github.com/franciscofl12/calculadoraSimple/archive/refs/heads/main.zip](https://github.com/franciscofl12/calculadoraSimple/archive/refs/heads/main.zip)
  - [Importación en AndroidStudio](#Importar)
 
