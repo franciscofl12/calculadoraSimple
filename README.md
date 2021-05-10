@@ -23,6 +23,11 @@
 
 [Imagen Basica del Programa](https://gyazo.com/2fe93168b16d508dcc17a151ee751918.png)
 
+# Código de apoyo
+
+[onClickListener](https://stackoverflow.com/questions/5588804/android-button-setonclicklistener-design)
+[onClick](https://developer.android.com/guide/topics/ui/ui-events?hl=es-419)
+
 # Licencia
 
 ### Licencia ###
