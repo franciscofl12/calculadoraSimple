@@ -25,8 +25,8 @@
 
 # Código de apoyo
 
-[onClickListener](https://stackoverflow.com/questions/5588804/android-button-setonclicklistener-design)
-[onClick](https://developer.android.com/guide/topics/ui/ui-events?hl=es-419)
+- [onClickListener](https://stackoverflow.com/questions/5588804/android-button-setonclicklistener-design)
+- [onClick](https://developer.android.com/guide/topics/ui/ui-events?hl=es-419)
 
 # Licencia
 
