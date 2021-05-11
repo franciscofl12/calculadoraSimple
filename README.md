@@ -31,6 +31,6 @@
 # Licencia
 
 ### Licencia ###
-esx_identity - rp characters
+CalculadoraSimple
 
 Copyright (©) 2021 Código Abierto.
